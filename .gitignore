@@ -3,3 +3,8 @@
 
 # Ignore Gradle build output directory
 build
+
+# Directorios de compilación/IDE (¡Imprescindible!)
+/target/
+/build/
+.idea/
